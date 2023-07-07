@@ -23214,3 +23214,40 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.07.07-20.25.31:412][705]LogViewport: Scene viewport resized to 685x287, mode Windowed.
 [2023.07.07-20.25.31:437][706]LogViewport: Scene viewport resized to 684x286, mode Windowed.
 [2023.07.07-20.26.02:828][240]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2023.07.07-20.37.33:810][ 73]LogViewport: Scene viewport resized to 684x291, mode Windowed.
+[2023.07.07-20.37.33:840][ 75]LogViewport: Scene viewport resized to 684x302, mode Windowed.
+[2023.07.07-20.37.33:879][ 77]LogViewport: Scene viewport resized to 684x305, mode Windowed.
+[2023.07.07-20.37.33:968][ 85]LogViewport: Scene viewport resized to 684x310, mode Windowed.
+[2023.07.07-20.37.34:000][ 87]LogViewport: Scene viewport resized to 684x313, mode Windowed.
+[2023.07.07-20.37.34:034][ 89]LogViewport: Scene viewport resized to 684x319, mode Windowed.
+[2023.07.07-20.37.36:250][331]LogViewport: Scene viewport resized to 691x319, mode Windowed.
+[2023.07.07-20.37.36:280][333]LogViewport: Scene viewport resized to 699x319, mode Windowed.
+[2023.07.07-20.37.36:308][335]LogViewport: Scene viewport resized to 708x319, mode Windowed.
+[2023.07.07-20.37.36:353][339]LogViewport: Scene viewport resized to 715x319, mode Windowed.
+[2023.07.07-20.37.36:389][341]LogViewport: Scene viewport resized to 727x319, mode Windowed.
+[2023.07.07-20.37.36:459][348]LogViewport: Scene viewport resized to 734x319, mode Windowed.
+[2023.07.07-20.37.36:501][350]LogViewport: Scene viewport resized to 736x319, mode Windowed.
+[2023.07.07-20.37.36:531][352]LogViewport: Scene viewport resized to 743x319, mode Windowed.
+[2023.07.07-20.37.36:561][354]LogViewport: Scene viewport resized to 750x319, mode Windowed.
+[2023.07.07-20.37.36:591][356]LogViewport: Scene viewport resized to 757x319, mode Windowed.
+[2023.07.07-20.37.36:688][366]LogViewport: Scene viewport resized to 760x319, mode Windowed.
+[2023.07.07-20.37.36:721][368]LogViewport: Scene viewport resized to 765x319, mode Windowed.
+[2023.07.07-20.37.36:753][370]LogViewport: Scene viewport resized to 773x319, mode Windowed.
+[2023.07.07-20.37.36:783][372]LogViewport: Scene viewport resized to 774x319, mode Windowed.
+[2023.07.07-20.37.36:816][374]LogViewport: Scene viewport resized to 777x319, mode Windowed.
+[2023.07.07-20.37.36:845][376]LogViewport: Scene viewport resized to 785x319, mode Windowed.
+[2023.07.07-20.37.36:874][378]LogViewport: Scene viewport resized to 790x319, mode Windowed.
+[2023.07.07-20.37.37:062][399]LogViewport: Scene viewport resized to 793x319, mode Windowed.
+[2023.07.07-20.37.37:107][402]LogViewport: Scene viewport resized to 817x319, mode Windowed.
+[2023.07.07-20.38.00:939][340]LogContentBrowser: Deferred new asset file creation: NewUserDefinedStruct
+[2023.07.07-20.38.00:946][340]LogContentBrowser: Creating deferred item: NewUserDefinedStruct
+[2023.07.07-20.38.00:955][341]LogContentBrowser: Renaming the item being created (Deferred Item: NewUserDefinedStruct).
+[2023.07.07-20.38.06:340][965]LogContentBrowser: Attempting asset rename: NewUserDefinedStruct -> S_object
+[2023.07.07-20.38.06:377][965]LogContentBrowser: End creating deferred item NewUserDefinedStruct
+[2023.07.07-20.38.34:068][997]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2023.07.07-20.38.34:074][997]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/map' took 0.070
+[2023.07.07-20.38.34:074][997]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/TextRandom/S_object] ([1] browsable assets)...
+[2023.07.07-20.38.34:074][997]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/TextRandom/S_object]
+[2023.07.07-20.38.34:076][997]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/TextRandom/S_object_Auto2
+[2023.07.07-20.38.34:076][997]LogSavePackage: Moving 'C:/Users/evane/OneDrive/Documents/GitHub/GMTK2023-ThePixeleur/ValorSold/Saved/S_object_Auto2117BC56D4AF7F2194190D38B24FA4336.tmp' to 'C:/Users/evane/OneDrive/Documents/GitHub/GMTK2023-ThePixeleur/ValorSold/Saved/Autosaves/Game/UI/TextRandom/S_object_Auto2.uasset'
+[2023.07.07-20.38.34:077][997]LogFileHelpers: Auto-saving content packages took 0.002
