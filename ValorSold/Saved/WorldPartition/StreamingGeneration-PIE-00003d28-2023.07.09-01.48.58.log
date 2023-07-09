@@ -1,0 +1,420 @@
+[+] Containers:
+ |- [+] Container: /Game/Map/map
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:01FBDE68475479A687CCEF91AEDDE76C BaseClass: NativeClass:/Script/NavigationSystem.NavMeshBoundsVolume Name:NavMeshBoundsVolume_UAID_047C1640C4C58E9301_1207106396 Label:NavMeshBoundsVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-15455.000 Y=35253.000 Z=-925.000), Max=(X=-13605.000 Y=37103.000 Z=925.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:03FE44684045FF2AA8876A973C942C75 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E99301_1581482447 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_mur_fond_reserve_2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-15064.779 Y=35447.112 Z=-2.108), Max=(X=-15045.088 Y=35663.588 Z=226.822) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:0B51C880457F7C2996D515A9758699AF BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E89301_2130675235 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_chaine_16_001 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14789.000 Y=35877.000 Z=-42.000), Max=(X=-14789.000 Y=35877.000 Z=-42.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:17CB859A42B5C40D0D5B029525A42E72 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E89301_2130751244 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_mur_exterieur__001 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14789.000 Y=35877.000 Z=-42.000), Max=(X=-14789.000 Y=35877.000 Z=-42.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:18DC604E408569873E93B39FDEE19880 BaseClass:/Game/Acteur/Objet/BP_objetSaber.BP_objetSaber_C NativeClass:/Script/Engine.Actor Name:BP_objetMaster_Child_C_UAID_047C1640C4C5989301_1526346154 Label:BP_objetSword6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14892.474 Y=35447.000 Z=53.350), Max=(X=-14878.000 Y=35457.000 Z=156.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:1A18DAC14C8B11EA4888748530C4160B BaseClass:/Game/Acteur/Objet/BP_objetstaff.BP_objetstaff_C NativeClass:/Script/Engine.Actor Name:BP_objetMaster_Child_C_UAID_047C1640C4C5989301_1530682157 Label:BP_objetSword9 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-15038.000 Y=35447.000 Z=50.339), Max=(X=-15028.000 Y=35457.000 Z=190.498) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:1D150AB74C6BC4A4E38B0C97F7251C54 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E89301_2130726241 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_Cube_004 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14789.000 Y=35877.000 Z=-42.000), Max=(X=-14789.000 Y=35877.000 Z=-42.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:1D3D26F04B6DC10BEFB5B69E5CF914C8 BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_UAID_A85E45CFE40401D200_1470381760 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:1DE8D7AC4103A2EABA11649C7FCF8ACA BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_UAID_A85E45CFE40401D200_1470380759 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:1FC6E8854F3C1B5F03A58487C1BA8B2B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E99301_1581312426 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_Box_453025_LOW_2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14949.139 Y=35454.266 Z=3.296), Max=(X=-14887.258 Y=35497.970 Z=34.626) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:218E3B124735712D7EF272B4FB8E7FF6 BaseClass: NativeClass:/Script/Landscape.Landscape Name:Landscape_UAID_A85E45CFE404FBD100_1221515703 Label:Landscape SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-100800.000 Y=-100800.000 Z=100.000), Max=(X=-100800.000 Y=-100800.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:249925B0484E444FD63AF5AC7C5E1153 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E89301_2130583224 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_Box_453025_LOW SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14789.000 Y=35877.000 Z=-42.000), Max=(X=-14789.000 Y=35877.000 Z=-42.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:29ECAB3B444D4E3F611B759148BB6554 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E89301_2130571223 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_porte_de_bar_dmg SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14789.000 Y=35877.000 Z=-42.000), Max=(X=-14789.000 Y=35877.000 Z=-42.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:2CE12F874AA39D020A0F4BA5739BD305 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_UAID_A85E45CFE40401D200_1470382762 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:2EBFF8B74417544D5B2D63A370C3A545 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E99301_1581386435 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_chaine_17 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14775.411 Y=36033.902 Z=99.583), Max=(X=-14773.188 Y=36057.860 Z=124.773) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:314B55FC4A8A11B353C709BF9D2AF670 BaseClass: NativeClass:/Script/Engine.TriggerBox Name:TriggerBox_UAID_047C1640C4C58C9301_1855138039 Label:BoxArriver2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14710.000 Y=36558.000 Z=21.000), Max=(X=-14630.000 Y=36638.000 Z=101.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:3413B99C447F7B8B7CCC16B3EE7A6E81 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E89301_2130616228 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_Box_503025_LOW_002 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14789.000 Y=35877.000 Z=-42.000), Max=(X=-14789.000 Y=35877.000 Z=-42.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:36FA04A7467F1487A2F879865E84F92D BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E99301_1581294424 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_porte_de_bar_dmg2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-15050.901 Y=35852.708 Z=21.331), Max=(X=-14949.592 Y=35856.741 Z=106.124) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:3AD283E34D8739D7E5F453890B6E28CB BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E89301_2130693237 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_Cube SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14789.000 Y=35877.000 Z=-42.000), Max=(X=-14789.000 Y=35877.000 Z=-42.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:3B2378234BC8EB13D949A6B397D014F0 BaseClass: NativeClass:/Script/Engine.PostProcessVolume Name:PostProcessVolume_UAID_047C1640C4C5CC9301_1187912296 Label:PostProcessVolume SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-24706.000 Y=26046.000 Z=-9892.000), Max=(X=-4706.000 Y=46046.000 Z=10108.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:3D14A0BA428965089E83A59FD78CFFCC BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E99301_1581490448 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_mur_fond_reserve_3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14567.706 Y=35431.024 Z=-2.108), Max=(X=-14548.014 Y=35671.721 Z=226.822) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:3F36F6E343853B5EFB38DF82C9F47BC1 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_6_0 Label:LandscapeStreamingProxy_3_6_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-25200.000 Y=50400.000 Z=189.062), Max=(X=0.000 Y=75600.000 Z=5252.344) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:502D29E94B8065A211C908A16B6B506B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E89301_2130717240 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_Cube_003 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14789.000 Y=35877.000 Z=-42.000), Max=(X=-14789.000 Y=35877.000 Z=-42.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:52844CC84B245869C2CA29B5C10E19A9 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E99301_1581417439 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_Cube_2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14992.792 Y=36033.120 Z=100.929), Max=(X=-14990.255 Y=36037.246 Z=101.494) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:5368FABB47D6D9580DAECA8B0417BF92 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers-1 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:5424BA334F5713B40053C5B8A4392101 BaseClass:/Game/Acteur/Objet/BP_objetAxe.BP_objetAxe_C NativeClass:/Script/Engine.Actor Name:BP_objetMaster_Child_C_UAID_047C1640C4C5989301_1522998151 Label:BP_objetSword3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14742.180 Y=35447.000 Z=48.000), Max=(X=-14721.601 Y=35457.000 Z=156.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:55318FE54D56433358082184F2CE0A7D BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E89301_2130742243 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_mur_derriere_comptoir_dmg SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14789.000 Y=35877.000 Z=-42.000), Max=(X=-14789.000 Y=35877.000 Z=-42.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:5BF8D6754BD35F11C582EAA7D0BE343B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E89301_2130659233 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_Box_604030_LOW SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14789.000 Y=35877.000 Z=-42.000), Max=(X=-14789.000 Y=35877.000 Z=-42.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:62B6E6A04CA8EA6396B34788F4DDA4C0 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E89301_2130684236 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_comptoir_dmg SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14789.000 Y=35877.000 Z=-42.000), Max=(X=-14789.000 Y=35877.000 Z=-42.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:67CA55674A8F6973F7FF5FB8BC1F701E BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E99301_1581450443 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_etagere_large_dmg2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14998.865 Y=36029.104 Z=95.280), Max=(X=-14766.815 Y=36060.211 Z=101.064) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:67D7509945083CB08BA56FBACA999A6E BaseClass:/Game/Acteur/SeilingWindows.SeilingWindows_C NativeClass:/Script/Engine.Actor Name:SeilingWindows_C_UAID_047C1640C4C5939301_2038577278 Label:SeilingWindows SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14617.075 Y=35833.925 Z=100.500), Max=(X=-14582.925 Y=35868.075 Z=125.500) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:6A9EF867416EE16424DE69BB1CA44881 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E99301_1581304425 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_Box_453025_LOW2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14981.897 Y=36012.150 Z=3.296), Max=(X=-14920.016 Y=36055.854 Z=34.626) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:73E64CDD454022F6F6184588A1C8CD3A BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E99301_1581378434 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_Box_604030_LOW2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14882.423 Y=35452.928 Z=3.977), Max=(X=-14807.423 Y=35502.928 Z=41.465) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:75CFA6BE4A9561F48A26A19D6A15E14D BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E89301_2130667234 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_chaine_16 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14789.000 Y=35877.000 Z=-42.000), Max=(X=-14789.000 Y=35877.000 Z=-42.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:7746F4114B230EB7327E61B92CD7121C BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E99301_1581458444 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_mur_derriere_comptoir_dmg2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-15060.224 Y=35662.457 Z=-2.352), Max=(X=-14551.962 Y=35682.644 Z=227.089) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:78C3C2684DDF8952520C86ACE92F75A4 BaseClass:/Game/Acteur/Objet/BP_objettwo-handedsword.BP_objettwo-handedsword_C NativeClass:/Script/Engine.Actor Name:BP_objetMaster_Child_C_UAID_047C1640C4C5989301_1529648156 Label:BP_objetSword8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14988.728 Y=35447.000 Z=46.453), Max=(X=-14969.288 Y=35457.000 Z=157.060) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:7AA9B5EB494F3F60D9B099BB0C75CDA4 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E99301_1581336429 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_Box_503025_LOW_3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-15045.936 Y=35452.134 Z=2.765), Max=(X=-14994.355 Y=35521.315 Z=34.015) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:81C5E0724B29C3EF4A043E899BB4899E BaseClass: NativeClass:/Script/NavigationSystem.NavMeshBoundsVolume Name:NavMeshBoundsVolume_UAID_047C1640C4C58D9301_1404926217 Label:NavMeshBoundsVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-15939.000 Y=35120.000 Z=-102.000), Max=(X=-13539.000 Y=37520.000 Z=98.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:84F929674915D261706F6FB2FD0EB9A7 BaseClass:/Game/Acteur/Objet/BP_objetDagger.BP_objetDagger_C NativeClass:/Script/Engine.Actor Name:BP_objetMaster_Child_C_UAID_047C1640C4C5989301_1525207153 Label:BP_objetSword5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14838.000 Y=35447.000 Z=55.001), Max=(X=-14828.000 Y=35457.000 Z=156.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:8B378A894B7B4EF4AEA637BA281716BF BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E89301_2130642231 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_Box_604020_LOW SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14789.000 Y=35877.000 Z=-42.000), Max=(X=-14789.000 Y=35877.000 Z=-42.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:8B3B21B94FF0C8C4917FEA8A9166EE9B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E99301_1581328428 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_Box_503025_LOW_2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-15044.924 Y=35591.670 Z=2.765), Max=(X=-14971.765 Y=35663.300 Z=34.015) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:8D778B0E474B66CE7471C990278E4A24 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E99301_1581442442 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_Cube_5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-15050.691 Y=35430.051 Z=-6.082), Max=(X=-14546.979 Y=35662.558 Z=3.638) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:8F4BCA5842C9A16F2151F5AA0CC36571 BaseClass:/Game/Acteur/BP_pariWindowzs.BP_pariWindowzs_C NativeClass:/Script/Engine.Actor Name:BP_pariWindowzs_C_UAID_047C1640C4C5C09301_1670279183 Label:BP_pariWindowzs SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-15071.500 Y=35713.000 Z=82.000), Max=(X=-15046.500 Y=35813.000 Z=182.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:936F1F4C4C3CEF151201F397896BD854 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E89301_2130625229 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_Box_504020_LOW SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14789.000 Y=35877.000 Z=-42.000), Max=(X=-14789.000 Y=35877.000 Z=-42.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:9AA48BD04CB873661E75B0973B2BF04A BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_5_0 Label:LandscapeStreamingProxy_3_5_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-25200.000 Y=25200.000 Z=-2.344), Max=(X=0.000 Y=50400.000 Z=1284.375) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:9ABABDED4943CA800CB359807201D8A2 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E89301_2130709239 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_Cube_002 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14789.000 Y=35877.000 Z=-42.000), Max=(X=-14789.000 Y=35877.000 Z=-42.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:9BDEE78549659B1E6F8DAA809C61CD2C BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_047C1640C4C5EC9301_2012841927 Label:PointLight SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-15751.000 Y=34844.000 Z=-799.000), Max=(X=-13751.000 Y=36844.000 Z=1201.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:9D9A606642B95327A9C1B2A3382FA938 BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_047C1640C4C5EC9301_2017234928 Label:PointLight2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-15896.000 Y=34557.000 Z=-799.000), Max=(X=-13896.000 Y=36557.000 Z=1201.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:9F028A634A97FCA52B811196C4914AB3 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E99301_1581475446 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_mur_fond_reserve2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-15059.941 Y=35429.859 Z=-2.108), Max=(X=-14552.059 Y=35449.551 Z=226.822) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:9FAF571B416A0579A84F2BA492424405 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E99301_1581361432 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_Box_604020_LOW2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14882.596 Y=36003.737 Z=2.921), Max=(X=-14804.834 Y=36057.986 Z=28.001) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:9FBB798444C4BDFFDAFB389A88AB4712 BaseClass: NativeClass:/Script/NavigationSystem.NavMeshBoundsVolume Name:NavMeshBoundsVolume_UAID_047C1640C4C58F9301_1150476573 Label:NavMeshBoundsVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-15650.000 Y=35247.000 Z=-102.000), Max=(X=-13650.000 Y=37247.000 Z=98.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:A0CD687849FE76B2A2DBFF9DC3CFAA8A BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E99301_1581401437 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_comptoir_dmg2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14949.910 Y=35817.092 Z=1.576), Max=(X=-14575.353 Y=35909.197 Z=100.345) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:AAAC6B5742760A58C2206DB37E44683C BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_A85E45CFE40401D200_1470382761 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:B82B39F848F622C3EFA612A9237A27A2 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E89301_2130701238 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_Cube_001 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14789.000 Y=35877.000 Z=-42.000), Max=(X=-14789.000 Y=35877.000 Z=-42.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:B9FA45A84B8A4F6DE2F7DABE0C3242CD BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E89301_2130768246 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_mur_fond_reserve_001 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14789.000 Y=35877.000 Z=-42.000), Max=(X=-14789.000 Y=35877.000 Z=-42.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:BC6A7CF64E9B44496DA859A484CCED9B BaseClass:/Game/Acteur/Objet/BP_objetClub.BP_objetClub_C NativeClass:/Script/Engine.Actor Name:BP_objetMaster_Child_C_UAID_047C1640C4C5989301_1524074152 Label:BP_objetSword4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14788.000 Y=35447.000 Z=49.355), Max=(X=-14776.352 Y=35457.000 Z=156.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:BCCD7EA543C848DEA4EBFA9E97614A32 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E99301_1581394436 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_chaine_16_2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14992.555 Y=36033.901 Z=99.583), Max=(X=-14990.599 Y=36057.863 Z=124.773) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:C053A56840C3440DE59E8F934656D93F BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E99301_1581426440 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_Cube_3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14993.050 Y=36056.353 Z=121.555), Max=(X=-14990.513 Y=36056.917 Z=125.681) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:C5C59AC14B2FBF6C086029BAB33BDF97 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E89301_2130776247 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_mur_fond_reserve_002 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14789.000 Y=35877.000 Z=-42.000), Max=(X=-14789.000 Y=35877.000 Z=-42.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:C735EEC94224C38C875E008F4D228EEF BaseClass: NativeClass:/Script/NavigationSystem.NavMeshBoundsVolume Name:NavMeshBoundsVolume_UAID_047C1640C4C58D9301_2014882218 Label:NavMeshBoundsVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-15872.000 Y=35366.000 Z=-309.000), Max=(X=-13872.000 Y=37366.000 Z=291.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:CD4D94114C77160AF530DEA85E298733 BaseClass:/Game/Acteur/Objet/BP_objetSword.BP_objetSword_C NativeClass:/Script/Engine.Actor Name:BP_objetMaster_Child_C_UAID_047C1640C4C59A9301_1999842496 Label:BP_objetSword10 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14589.220 Y=35447.000 Z=54.350), Max=(X=-14575.915 Y=35457.000 Z=156.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:CD639F074443AB2C02F9C8BE65AF62D4 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E89301_2130759245 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_mur_fond_reserve SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14789.000 Y=35877.000 Z=-42.000), Max=(X=-14789.000 Y=35877.000 Z=-42.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:D3FB7383421AAEFD3DB6F8B1E415A9FE BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_UAID_A85E45CFE40401D200_1470382763 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-6850.000), Max=(X=-5600.000 Y=-50.000 Z=-6850.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:D87E4F6C4E786D27541F968525875D4C BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19CD9301_2143745472 Label:Valor_sold_?tal_du_marchant SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14791.000 Y=35870.000 Z=-39.000), Max=(X=-14791.000 Y=35870.000 Z=-39.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:D9E88C3446810D29F90E438887CD65D2 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E99301_1581434441 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_Cube_4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14776.095 Y=36056.353 Z=121.555), Max=(X=-14773.559 Y=36056.917 Z=125.681) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:DBC6101B43BA5EF3796D9093E424AC0F BaseClass: NativeClass:/Script/Engine.TriggerBox Name:TriggerBox_UAID_047C1640C4C58C9301_1434996034 Label:BoxArriver SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14710.000 Y=35931.000 Z=-11.000), Max=(X=-14630.000 Y=36011.000 Z=69.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:DBC7AC1D4FA8766271F691AAD8045565 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E99301_1581467445 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_mur_exterieur__2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-15067.155 Y=35660.949 Z=-3.745), Max=(X=-14544.845 Y=36072.290 Z=228.066) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:E04E5A214159CB0B98EDD5A65D0E074D BaseClass:/Game/Acteur/Objet/BP_objetHalberd.BP_objetHalberd_C NativeClass:/Script/Engine.Actor Name:BP_objetMaster_Child_C_UAID_047C1640C4C5989301_1528482155 Label:BP_objetSword7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14942.907 Y=35447.000 Z=48.447), Max=(X=-14920.769 Y=35457.000 Z=216.193) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:E612A5084DA7893B4982FAB90DAC7EB3 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E89301_2130734242 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_etagere_large_dmg SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14789.000 Y=35877.000 Z=-42.000), Max=(X=-14789.000 Y=35877.000 Z=-42.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:E7EC7438435D5EDD1E178ABD02A8939F BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E89301_2130633230 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_Box_504030_LOW SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14789.000 Y=35877.000 Z=-42.000), Max=(X=-14789.000 Y=35877.000 Z=-42.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:E80C8C51405A69BDB3A883A68F7C5A4B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E89301_2130650232 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_Box_604020_LOW_001 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14789.000 Y=35877.000 Z=-42.000), Max=(X=-14789.000 Y=35877.000 Z=-42.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:EE10AAC847F223968AC2CF9F35C51638 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E99301_1581352431 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_Box_504030_LOW2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14837.438 Y=35995.657 Z=-249.221), Max=(X=-14774.562 Y=36045.657 Z=-211.261) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:EE87090D4A261C7C50FBC9B2EFFDFAC5 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E99301_1581320427 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_Box_503025_LOW2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-15051.080 Y=36004.368 Z=1.653), Max=(X=-14980.730 Y=36058.364 Z=32.903) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:EEF849054E8A2E565B0384996D1C4573 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E99301_1581344430 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_Box_504020_LOW2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14837.250 Y=35710.548 Z=-249.221), Max=(X=-14774.750 Y=35760.541 Z=-224.221) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:EF68CC67429621FBFA19FC9E352C9815 BaseClass: NativeClass:/Script/NavigationSystem.RecastNavMesh Name:RecastNavMesh_UAID_047C1640C4C58D9301-Default Label:RecastNavMesh-Default SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-450.000 Y=0.000 Z=0.000), Max=(X=-450.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:EF6C24374C9324D33F124C96A5956F07 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E89301_2130599226 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_Box_503025_LOW SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14789.000 Y=35877.000 Z=-42.000), Max=(X=-14789.000 Y=35877.000 Z=-42.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:F17689FF4A9441D777889DAF57B424A3 BaseClass:/Game/Acteur/Objet/BP_objetSpear.BP_objetSpear_C NativeClass:/Script/Engine.Actor Name:BP_objetMaster_Child_C_UAID_047C1640C4C5989301_1521519150 Label:BP_objetSword2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14688.000 Y=35447.000 Z=48.447), Max=(X=-14678.000 Y=35457.000 Z=219.844) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:F36C02BC49627806F598F79DA6A790FF BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E89301_2130608227 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_Box_503025_LOW_001 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14789.000 Y=35877.000 Z=-42.000), Max=(X=-14789.000 Y=35877.000 Z=-42.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:F37F55774ABB091A377943B77F30FCFC BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E89301_2130591225 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_Box_453025_LOW_001 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14789.000 Y=35877.000 Z=-42.000), Max=(X=-14789.000 Y=35877.000 Z=-42.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:F416F7984444800FF0AB10A49EAD0EEC BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E99301_1581409438 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_Cube2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14775.389 Y=36033.108 Z=100.929), Max=(X=-14772.812 Y=36037.258 Z=101.494) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:F6CF90BB40E9E52DB935E3BBEFC9985D BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E99301_1581369433 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_Box_604020_LOW_2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14938.530 Y=35608.686 Z=2.921), Max=(X=-14860.767 Y=35662.935 Z=28.001) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:F9D24A0648FB4D1E9B89A398ABA9C6D4 BaseClass:/Game/Acteur/Objet/BP_objetBattleAxe.BP_objetBattleAxe_C NativeClass:/Script/Engine.Actor Name:BP_objetMaster_Child_C_UAID_047C1640C4C5989301_1514392149 Label:BP_objetSword SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14650.486 Y=35447.000 Z=45.000), Max=(X=-14615.351 Y=35457.000 Z=156.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:CD4D94114C77160AF530DEA85E298733 BaseClass:/Game/Acteur/Objet/BP_objetSword.BP_objetSword_C NativeClass:/Script/Engine.Actor Name:BP_objetMaster_Child_C_UAID_047C1640C4C59A9301_1999842496 Label:BP_objetSword10 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14589.220 Y=35447.000 Z=54.350), Max=(X=-14575.915 Y=35457.000 Z=156.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:03FE44684045FF2AA8876A973C942C75 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E99301_1581482447 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_mur_fond_reserve_2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-15064.779 Y=35447.112 Z=-2.108), Max=(X=-15045.088 Y=35663.588 Z=226.822) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:8D778B0E474B66CE7471C990278E4A24 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E99301_1581442442 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_Cube_5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-15050.691 Y=35430.051 Z=-6.082), Max=(X=-14546.979 Y=35662.558 Z=3.638) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:C735EEC94224C38C875E008F4D228EEF BaseClass: NativeClass:/Script/NavigationSystem.NavMeshBoundsVolume Name:NavMeshBoundsVolume_UAID_047C1640C4C58D9301_2014882218 Label:NavMeshBoundsVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-15872.000 Y=35366.000 Z=-309.000), Max=(X=-13872.000 Y=37366.000 Z=291.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:BC6A7CF64E9B44496DA859A484CCED9B BaseClass:/Game/Acteur/Objet/BP_objetClub.BP_objetClub_C NativeClass:/Script/Engine.Actor Name:BP_objetMaster_Child_C_UAID_047C1640C4C5989301_1524074152 Label:BP_objetSword4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14788.000 Y=35447.000 Z=49.355), Max=(X=-14776.352 Y=35457.000 Z=156.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  5]
+ |   |   |   |- Guid:EEF849054E8A2E565B0384996D1C4573 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E99301_1581344430 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_Box_504020_LOW2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14837.250 Y=35710.548 Z=-249.221), Max=(X=-14774.750 Y=35760.541 Z=-224.221) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [  6]
+ |   |   |   |- Guid:CD639F074443AB2C02F9C8BE65AF62D4 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E89301_2130759245 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_mur_fond_reserve SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14789.000 Y=35877.000 Z=-42.000), Max=(X=-14789.000 Y=35877.000 Z=-42.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  7]
+ |   |   |   |- Guid:84F929674915D261706F6FB2FD0EB9A7 BaseClass:/Game/Acteur/Objet/BP_objetDagger.BP_objetDagger_C NativeClass:/Script/Engine.Actor Name:BP_objetMaster_Child_C_UAID_047C1640C4C5989301_1525207153 Label:BP_objetSword5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14838.000 Y=35447.000 Z=55.001), Max=(X=-14828.000 Y=35457.000 Z=156.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  8]
+ |   |   |   |- Guid:314B55FC4A8A11B353C709BF9D2AF670 BaseClass: NativeClass:/Script/Engine.TriggerBox Name:TriggerBox_UAID_047C1640C4C58C9301_1855138039 Label:BoxArriver2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14710.000 Y=36558.000 Z=21.000), Max=(X=-14630.000 Y=36638.000 Z=101.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  9]
+ |   |   |   |- Guid:5368FABB47D6D9580DAECA8B0417BF92 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers-1 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 10]
+ |   |   |   |- Guid:F6CF90BB40E9E52DB935E3BBEFC9985D BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E99301_1581369433 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_Box_604020_LOW_2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14938.530 Y=35608.686 Z=2.921), Max=(X=-14860.767 Y=35662.935 Z=28.001) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 11]
+ |   |   |   |- Guid:55318FE54D56433358082184F2CE0A7D BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E89301_2130742243 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_mur_derriere_comptoir_dmg SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14789.000 Y=35877.000 Z=-42.000), Max=(X=-14789.000 Y=35877.000 Z=-42.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 12]
+ |   |   |   |- Guid:1DE8D7AC4103A2EABA11649C7FCF8ACA BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_UAID_A85E45CFE40401D200_1470380759 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [ 13]
+ |   |   |   |- Guid:E04E5A214159CB0B98EDD5A65D0E074D BaseClass:/Game/Acteur/Objet/BP_objetHalberd.BP_objetHalberd_C NativeClass:/Script/Engine.Actor Name:BP_objetMaster_Child_C_UAID_047C1640C4C5989301_1528482155 Label:BP_objetSword7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14942.907 Y=35447.000 Z=48.447), Max=(X=-14920.769 Y=35457.000 Z=216.193) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 14]
+ |   |   |   |- Guid:8B378A894B7B4EF4AEA637BA281716BF BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E89301_2130642231 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_Box_604020_LOW SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14789.000 Y=35877.000 Z=-42.000), Max=(X=-14789.000 Y=35877.000 Z=-42.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 15]
+ |   |   |   |- Guid:75CFA6BE4A9561F48A26A19D6A15E14D BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E89301_2130667234 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_chaine_16 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14789.000 Y=35877.000 Z=-42.000), Max=(X=-14789.000 Y=35877.000 Z=-42.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 16]
+ |   |   |   |- Guid:249925B0484E444FD63AF5AC7C5E1153 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E89301_2130583224 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_Box_453025_LOW SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14789.000 Y=35877.000 Z=-42.000), Max=(X=-14789.000 Y=35877.000 Z=-42.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 17]
+ |   |   |   |- Guid:E612A5084DA7893B4982FAB90DAC7EB3 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E89301_2130734242 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_etagere_large_dmg SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14789.000 Y=35877.000 Z=-42.000), Max=(X=-14789.000 Y=35877.000 Z=-42.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 18]
+ |   |   |   |- Guid:A0CD687849FE76B2A2DBFF9DC3CFAA8A BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E99301_1581401437 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_comptoir_dmg2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14949.910 Y=35817.092 Z=1.576), Max=(X=-14575.353 Y=35909.197 Z=100.345) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 19]
+ |   |   |   |- Guid:E7EC7438435D5EDD1E178ABD02A8939F BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E89301_2130633230 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_Box_504030_LOW SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14789.000 Y=35877.000 Z=-42.000), Max=(X=-14789.000 Y=35877.000 Z=-42.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 20]
+ |   |   |   |- Guid:EF68CC67429621FBFA19FC9E352C9815 BaseClass: NativeClass:/Script/NavigationSystem.RecastNavMesh Name:RecastNavMesh_UAID_047C1640C4C58D9301-Default Label:RecastNavMesh-Default SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-450.000 Y=0.000 Z=0.000), Max=(X=-450.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 21]
+ |   |   |   |- Guid:3AD283E34D8739D7E5F453890B6E28CB BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E89301_2130693237 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_Cube SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14789.000 Y=35877.000 Z=-42.000), Max=(X=-14789.000 Y=35877.000 Z=-42.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 22]
+ |   |   |   |- Guid:AAAC6B5742760A58C2206DB37E44683C BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_A85E45CFE40401D200_1470382761 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [ 23]
+ |   |   |   |- Guid:9FAF571B416A0579A84F2BA492424405 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E99301_1581361432 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_Box_604020_LOW2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14882.596 Y=36003.737 Z=2.921), Max=(X=-14804.834 Y=36057.986 Z=28.001) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 24]
+ |   |   |   |- Guid:67D7509945083CB08BA56FBACA999A6E BaseClass:/Game/Acteur/SeilingWindows.SeilingWindows_C NativeClass:/Script/Engine.Actor Name:SeilingWindows_C_UAID_047C1640C4C5939301_2038577278 Label:SeilingWindows SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14617.075 Y=35833.925 Z=100.500), Max=(X=-14582.925 Y=35868.075 Z=125.500) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 25]
+ |   |   |   |- Guid:3D14A0BA428965089E83A59FD78CFFCC BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E99301_1581490448 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_mur_fond_reserve_3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14567.706 Y=35431.024 Z=-2.108), Max=(X=-14548.014 Y=35671.721 Z=226.822) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 26]
+ |   |   |   |- Guid:67CA55674A8F6973F7FF5FB8BC1F701E BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E99301_1581450443 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_etagere_large_dmg2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14998.865 Y=36029.104 Z=95.280), Max=(X=-14766.815 Y=36060.211 Z=101.064) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 27]
+ |   |   |   |- Guid:DBC6101B43BA5EF3796D9093E424AC0F BaseClass: NativeClass:/Script/Engine.TriggerBox Name:TriggerBox_UAID_047C1640C4C58C9301_1434996034 Label:BoxArriver SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14710.000 Y=35931.000 Z=-11.000), Max=(X=-14630.000 Y=36011.000 Z=69.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 28]
+ |   |   |   |- Guid:F17689FF4A9441D777889DAF57B424A3 BaseClass:/Game/Acteur/Objet/BP_objetSpear.BP_objetSpear_C NativeClass:/Script/Engine.Actor Name:BP_objetMaster_Child_C_UAID_047C1640C4C5989301_1521519150 Label:BP_objetSword2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14688.000 Y=35447.000 Z=48.447), Max=(X=-14678.000 Y=35457.000 Z=219.844) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 29]
+ |   |   |   |- Guid:D3FB7383421AAEFD3DB6F8B1E415A9FE BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_UAID_A85E45CFE40401D200_1470382763 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-6850.000), Max=(X=-5600.000 Y=-50.000 Z=-6850.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [ 30]
+ |   |   |   |- Guid:E80C8C51405A69BDB3A883A68F7C5A4B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E89301_2130650232 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_Box_604020_LOW_001 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14789.000 Y=35877.000 Z=-42.000), Max=(X=-14789.000 Y=35877.000 Z=-42.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 31]
+ |   |   |   |- Guid:36FA04A7467F1487A2F879865E84F92D BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E99301_1581294424 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_porte_de_bar_dmg2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-15050.901 Y=35852.708 Z=21.331), Max=(X=-14949.592 Y=35856.741 Z=106.124) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 32]
+ |   |   |   |- Guid:8F4BCA5842C9A16F2151F5AA0CC36571 BaseClass:/Game/Acteur/BP_pariWindowzs.BP_pariWindowzs_C NativeClass:/Script/Engine.Actor Name:BP_pariWindowzs_C_UAID_047C1640C4C5C09301_1670279183 Label:BP_pariWindowzs SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-15071.500 Y=35713.000 Z=82.000), Max=(X=-15046.500 Y=35813.000 Z=182.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 33]
+ |   |   |   |- Guid:2CE12F874AA39D020A0F4BA5739BD305 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_UAID_A85E45CFE40401D200_1470382762 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [ 34]
+ |   |   |   |- Guid:EE87090D4A261C7C50FBC9B2EFFDFAC5 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E99301_1581320427 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_Box_503025_LOW2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-15051.080 Y=36004.368 Z=1.653), Max=(X=-14980.730 Y=36058.364 Z=32.903) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 35]
+ |   |   |   |- Guid:1D150AB74C6BC4A4E38B0C97F7251C54 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E89301_2130726241 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_Cube_004 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14789.000 Y=35877.000 Z=-42.000), Max=(X=-14789.000 Y=35877.000 Z=-42.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 36]
+ |   |   |   |- Guid:29ECAB3B444D4E3F611B759148BB6554 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E89301_2130571223 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_porte_de_bar_dmg SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14789.000 Y=35877.000 Z=-42.000), Max=(X=-14789.000 Y=35877.000 Z=-42.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 37]
+ |   |   |   |- Guid:218E3B124735712D7EF272B4FB8E7FF6 BaseClass: NativeClass:/Script/Landscape.Landscape Name:Landscape_UAID_A85E45CFE404FBD100_1221515703 Label:Landscape SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-100800.000 Y=-100800.000 Z=100.000), Max=(X=-100800.000 Y=-100800.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 38]
+ |   |   |   |- Guid:1D3D26F04B6DC10BEFB5B69E5CF914C8 BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_UAID_A85E45CFE40401D200_1470381760 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [ 39]
+ |   |   |   |- Guid:502D29E94B8065A211C908A16B6B506B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E89301_2130717240 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_Cube_003 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14789.000 Y=35877.000 Z=-42.000), Max=(X=-14789.000 Y=35877.000 Z=-42.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 40]
+ |   |   |   |- Guid:BCCD7EA543C848DEA4EBFA9E97614A32 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E99301_1581394436 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_chaine_16_2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14992.555 Y=36033.901 Z=99.583), Max=(X=-14990.599 Y=36057.863 Z=124.773) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 41]
+ |   |   |   |- Guid:9F028A634A97FCA52B811196C4914AB3 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E99301_1581475446 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_mur_fond_reserve2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-15059.941 Y=35429.859 Z=-2.108), Max=(X=-14552.059 Y=35449.551 Z=226.822) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 42]
+ |   |   |   |- Guid:936F1F4C4C3CEF151201F397896BD854 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E89301_2130625229 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_Box_504020_LOW SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14789.000 Y=35877.000 Z=-42.000), Max=(X=-14789.000 Y=35877.000 Z=-42.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 43]
+ |   |   |   |- Guid:73E64CDD454022F6F6184588A1C8CD3A BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E99301_1581378434 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_Box_604030_LOW2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14882.423 Y=35452.928 Z=3.977), Max=(X=-14807.423 Y=35502.928 Z=41.465) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 44]
+ |   |   |   |- Guid:7746F4114B230EB7327E61B92CD7121C BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E99301_1581458444 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_mur_derriere_comptoir_dmg2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-15060.224 Y=35662.457 Z=-2.352), Max=(X=-14551.962 Y=35682.644 Z=227.089) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 45]
+ |   |   |   |- Guid:0B51C880457F7C2996D515A9758699AF BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E89301_2130675235 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_chaine_16_001 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14789.000 Y=35877.000 Z=-42.000), Max=(X=-14789.000 Y=35877.000 Z=-42.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 46]
+ |   |   |   |- Guid:9FBB798444C4BDFFDAFB389A88AB4712 BaseClass: NativeClass:/Script/NavigationSystem.NavMeshBoundsVolume Name:NavMeshBoundsVolume_UAID_047C1640C4C58F9301_1150476573 Label:NavMeshBoundsVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-15650.000 Y=35247.000 Z=-102.000), Max=(X=-13650.000 Y=37247.000 Z=98.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 47]
+ |   |   |   |- Guid:C5C59AC14B2FBF6C086029BAB33BDF97 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E89301_2130776247 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_mur_fond_reserve_002 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14789.000 Y=35877.000 Z=-42.000), Max=(X=-14789.000 Y=35877.000 Z=-42.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 48]
+ |   |   |   |- Guid:2EBFF8B74417544D5B2D63A370C3A545 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E99301_1581386435 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_chaine_17 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14775.411 Y=36033.902 Z=99.583), Max=(X=-14773.188 Y=36057.860 Z=124.773) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 49]
+ |   |   |   |- Guid:9AA48BD04CB873661E75B0973B2BF04A BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_5_0 Label:LandscapeStreamingProxy_3_5_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-25200.000 Y=25200.000 Z=-2.344), Max=(X=0.000 Y=50400.000 Z=1284.375) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 50]
+ |   |   |   |- Guid:F36C02BC49627806F598F79DA6A790FF BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E89301_2130608227 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_Box_503025_LOW_001 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14789.000 Y=35877.000 Z=-42.000), Max=(X=-14789.000 Y=35877.000 Z=-42.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 51]
+ |   |   |   |- Guid:81C5E0724B29C3EF4A043E899BB4899E BaseClass: NativeClass:/Script/NavigationSystem.NavMeshBoundsVolume Name:NavMeshBoundsVolume_UAID_047C1640C4C58D9301_1404926217 Label:NavMeshBoundsVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-15939.000 Y=35120.000 Z=-102.000), Max=(X=-13539.000 Y=37520.000 Z=98.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 52]
+ |   |   |   |- Guid:9BDEE78549659B1E6F8DAA809C61CD2C BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_047C1640C4C5EC9301_2012841927 Label:PointLight SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-15751.000 Y=34844.000 Z=-799.000), Max=(X=-13751.000 Y=36844.000 Z=1201.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 53]
+ |   |   |   |- Guid:D9E88C3446810D29F90E438887CD65D2 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E99301_1581434441 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_Cube_4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14776.095 Y=36056.353 Z=121.555), Max=(X=-14773.559 Y=36056.917 Z=125.681) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 54]
+ |   |   |   |- Guid:9ABABDED4943CA800CB359807201D8A2 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E89301_2130709239 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_Cube_002 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14789.000 Y=35877.000 Z=-42.000), Max=(X=-14789.000 Y=35877.000 Z=-42.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 55]
+ |   |   |   |- Guid:DBC7AC1D4FA8766271F691AAD8045565 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E99301_1581467445 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_mur_exterieur__2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-15067.155 Y=35660.949 Z=-3.745), Max=(X=-14544.845 Y=36072.290 Z=228.066) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 56]
+ |   |   |   |- Guid:B82B39F848F622C3EFA612A9237A27A2 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E89301_2130701238 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_Cube_001 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14789.000 Y=35877.000 Z=-42.000), Max=(X=-14789.000 Y=35877.000 Z=-42.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 57]
+ |   |   |   |- Guid:9D9A606642B95327A9C1B2A3382FA938 BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_047C1640C4C5EC9301_2017234928 Label:PointLight2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-15896.000 Y=34557.000 Z=-799.000), Max=(X=-13896.000 Y=36557.000 Z=1201.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 58]
+ |   |   |   |- Guid:5BF8D6754BD35F11C582EAA7D0BE343B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E89301_2130659233 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_Box_604030_LOW SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14789.000 Y=35877.000 Z=-42.000), Max=(X=-14789.000 Y=35877.000 Z=-42.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 59]
+ |   |   |   |- Guid:78C3C2684DDF8952520C86ACE92F75A4 BaseClass:/Game/Acteur/Objet/BP_objettwo-handedsword.BP_objettwo-handedsword_C NativeClass:/Script/Engine.Actor Name:BP_objetMaster_Child_C_UAID_047C1640C4C5989301_1529648156 Label:BP_objetSword8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14988.728 Y=35447.000 Z=46.453), Max=(X=-14969.288 Y=35457.000 Z=157.060) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 60]
+ |   |   |   |- Guid:EF6C24374C9324D33F124C96A5956F07 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E89301_2130599226 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_Box_503025_LOW SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14789.000 Y=35877.000 Z=-42.000), Max=(X=-14789.000 Y=35877.000 Z=-42.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 61]
+ |   |   |   |- Guid:3F36F6E343853B5EFB38DF82C9F47BC1 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_6_0 Label:LandscapeStreamingProxy_3_6_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-25200.000 Y=50400.000 Z=189.062), Max=(X=0.000 Y=75600.000 Z=5252.344) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 62]
+ |   |   |   |- Guid:6A9EF867416EE16424DE69BB1CA44881 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E99301_1581304425 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_Box_453025_LOW2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14981.897 Y=36012.150 Z=3.296), Max=(X=-14920.016 Y=36055.854 Z=34.626) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 63]
+ |   |   |   |- Guid:8B3B21B94FF0C8C4917FEA8A9166EE9B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E99301_1581328428 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_Box_503025_LOW_2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-15044.924 Y=35591.670 Z=2.765), Max=(X=-14971.765 Y=35663.300 Z=34.015) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 64]
+ |   |   |   |- Guid:C053A56840C3440DE59E8F934656D93F BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E99301_1581426440 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_Cube_3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14993.050 Y=36056.353 Z=121.555), Max=(X=-14990.513 Y=36056.917 Z=125.681) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 65]
+ |   |   |   |- Guid:3413B99C447F7B8B7CCC16B3EE7A6E81 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E89301_2130616228 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_Box_503025_LOW_002 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14789.000 Y=35877.000 Z=-42.000), Max=(X=-14789.000 Y=35877.000 Z=-42.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 66]
+ |   |   |   |- Guid:EE10AAC847F223968AC2CF9F35C51638 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E99301_1581352431 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_Box_504030_LOW2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14837.438 Y=35995.657 Z=-249.221), Max=(X=-14774.562 Y=36045.657 Z=-211.261) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 67]
+ |   |   |   |- Guid:17CB859A42B5C40D0D5B029525A42E72 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E89301_2130751244 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_mur_exterieur__001 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14789.000 Y=35877.000 Z=-42.000), Max=(X=-14789.000 Y=35877.000 Z=-42.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 68]
+ |   |   |   |- Guid:F416F7984444800FF0AB10A49EAD0EEC BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E99301_1581409438 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_Cube2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14775.389 Y=36033.108 Z=100.929), Max=(X=-14772.812 Y=36037.258 Z=101.494) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 69]
+ |   |   |   |- Guid:D87E4F6C4E786D27541F968525875D4C BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19CD9301_2143745472 Label:Valor_sold_?tal_du_marchant SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14791.000 Y=35870.000 Z=-39.000), Max=(X=-14791.000 Y=35870.000 Z=-39.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 70]
+ |   |   |   |- Guid:B9FA45A84B8A4F6DE2F7DABE0C3242CD BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E89301_2130768246 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_mur_fond_reserve_001 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14789.000 Y=35877.000 Z=-42.000), Max=(X=-14789.000 Y=35877.000 Z=-42.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 71]
+ |   |   |   |- Guid:5424BA334F5713B40053C5B8A4392101 BaseClass:/Game/Acteur/Objet/BP_objetAxe.BP_objetAxe_C NativeClass:/Script/Engine.Actor Name:BP_objetMaster_Child_C_UAID_047C1640C4C5989301_1522998151 Label:BP_objetSword3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14742.180 Y=35447.000 Z=48.000), Max=(X=-14721.601 Y=35457.000 Z=156.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 72]
+ |   |   |   |- Guid:3B2378234BC8EB13D949A6B397D014F0 BaseClass: NativeClass:/Script/Engine.PostProcessVolume Name:PostProcessVolume_UAID_047C1640C4C5CC9301_1187912296 Label:PostProcessVolume SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-24706.000 Y=26046.000 Z=-9892.000), Max=(X=-4706.000 Y=46046.000 Z=10108.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 73]
+ |   |   |   |- Guid:7AA9B5EB494F3F60D9B099BB0C75CDA4 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E99301_1581336429 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_Box_503025_LOW_3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-15045.936 Y=35452.134 Z=2.765), Max=(X=-14994.355 Y=35521.315 Z=34.015) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 74]
+ |   |   |   |- Guid:1FC6E8854F3C1B5F03A58487C1BA8B2B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E99301_1581312426 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_Box_453025_LOW_2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14949.139 Y=35454.266 Z=3.296), Max=(X=-14887.258 Y=35497.970 Z=34.626) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 75]
+ |   |   |   |- Guid:F37F55774ABB091A377943B77F30FCFC BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E89301_2130591225 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_Box_453025_LOW_001 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14789.000 Y=35877.000 Z=-42.000), Max=(X=-14789.000 Y=35877.000 Z=-42.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 76]
+ |   |   |   |- Guid:01FBDE68475479A687CCEF91AEDDE76C BaseClass: NativeClass:/Script/NavigationSystem.NavMeshBoundsVolume Name:NavMeshBoundsVolume_UAID_047C1640C4C58E9301_1207106396 Label:NavMeshBoundsVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-15455.000 Y=35253.000 Z=-925.000), Max=(X=-13605.000 Y=37103.000 Z=925.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 77]
+ |   |   |   |- Guid:1A18DAC14C8B11EA4888748530C4160B BaseClass:/Game/Acteur/Objet/BP_objetstaff.BP_objetstaff_C NativeClass:/Script/Engine.Actor Name:BP_objetMaster_Child_C_UAID_047C1640C4C5989301_1530682157 Label:BP_objetSword9 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-15038.000 Y=35447.000 Z=50.339), Max=(X=-15028.000 Y=35457.000 Z=190.498) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 78]
+ |   |   |   |- Guid:18DC604E408569873E93B39FDEE19880 BaseClass:/Game/Acteur/Objet/BP_objetSaber.BP_objetSaber_C NativeClass:/Script/Engine.Actor Name:BP_objetMaster_Child_C_UAID_047C1640C4C5989301_1526346154 Label:BP_objetSword6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14892.474 Y=35447.000 Z=53.350), Max=(X=-14878.000 Y=35457.000 Z=156.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 79]
+ |   |   |   |- Guid:F9D24A0648FB4D1E9B89A398ABA9C6D4 BaseClass:/Game/Acteur/Objet/BP_objetBattleAxe.BP_objetBattleAxe_C NativeClass:/Script/Engine.Actor Name:BP_objetMaster_Child_C_UAID_047C1640C4C5989301_1514392149 Label:BP_objetSword SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14650.486 Y=35447.000 Z=45.000), Max=(X=-14615.351 Y=35457.000 Z=156.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 80]
+ |   |   |   |- Guid:62B6E6A04CA8EA6396B34788F4DDA4C0 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E89301_2130684236 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_comptoir_dmg SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14789.000 Y=35877.000 Z=-42.000), Max=(X=-14789.000 Y=35877.000 Z=-42.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 81]
+ |   |   |   |- Guid:52844CC84B245869C2CA29B5C10E19A9 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D8BBC197EE19E99301_1581417439 Label:Valor_sold_?tal_du_marchant_plusieurs_partie_Cube_2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14992.792 Y=36033.120 Z=100.929), Max=(X=-14990.255 Y=36037.246 Z=101.494) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 0x0000000000000000
+ |   |-    Bounds: IsValid=true, Min=(X=-25200.000 Y=25200.000 Z=-9892.000), Max=(X=0.000 Y=75600.000 Z=10108.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/Map/map
+----------------------------------------------------------------------------------------------------------------
+map - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+Always loaded Actor Count: 88 
+
+----------------------------------------------------------------------------------------------------------------
+map - Runtime Spatial Hash - Streaming Grid - MainGrid
+----------------------------------------------------------------------------------------------------------------
+            Origin: X=0.000 Y=0.000 Z=0.000
+         Cell Size: 25600
+      World Bounds: IsValid=true, Min=(X=-25200.000 Y=25200.000 Z=-9892.000), Max=(X=0.000 Y=75600.000 Z=10108.000)
+     Loading Range: 76800.00
+Block Slow Loading: No
+ ClientOnlyVisible: No
+
+[+] Grid Levels: 4
+ |- Level  0: Cell Count    2 | Cell Size   25600 | Actor Count   66 (100.0%)
+ |- Level  1: Cell Count    0 | Cell Size   51200 | Actor Count    0 (0.0%)
+ |- Level  2: Cell Count    0 | Cell Size  102400 | Actor Count    0 (0.0%)
+ |- Level  3: Cell Count    0 | Cell Size  204800 | Actor Count    0 (0.0%)
+
+[+] Content of Grid Level 0
+ |- [+] Content of Cell MainGrid_L0_X-1_Y1
+ |   |- Actor Count: 65
+ |   |- MinMaxZ: X=-9892.000 Y=10108.000
+ |   |- Actor Path: /Game/Map/map.map:PersistentLevel.BP_objetMaster_Child_C_UAID_047C1640C4C59A9301_1999842496
+ |   |- Actor Package: /Game/__ExternalActors__/map/map/0/9Q/T9VOQMB2U2MNKYX5K993A0
+ |   |- Actor Path: /Game/Map/map.map:PersistentLevel.StaticMeshActor_UAID_D8BBC197EE19E99301_1581482447
+ |   |- Actor Package: /Game/__ExternalActors__/map/map/0/C8/C0E67HNSD0MBEGWBRRKFYE
+ |   |- Actor Path: /Game/Map/map.map:PersistentLevel.StaticMeshActor_UAID_D8BBC197EE19E99301_1581442442
+ |   |- Actor Package: /Game/__ExternalActors__/map/map/0/PC/9LYXBEZUZODEM6NDT30U3A
+ |   |- Actor Path: /Game/Map/map.map:PersistentLevel.BP_objetMaster_Child_C_UAID_047C1640C4C5989301_1524074152
+ |   |- Actor Package: /Game/__ExternalActors__/map/map/0/UT/6BDPZEJ190PPDZH2Z1H91Y
+ |   |- Actor Path: /Game/Map/map.map:PersistentLevel.StaticMeshActor_UAID_D8BBC197EE19E99301_1581344430
+ |   |- Actor Package: /Game/__ExternalActors__/map/map/0/ZN/I75865QCX2G8KOV7XQUS3B
+ |   |- Actor Path: /Game/Map/map.map:PersistentLevel.StaticMeshActor_UAID_D8BBC197EE19E89301_2130759245
+ |   |- Actor Package: /Game/__ExternalActors__/map/map/1/4Z/VEHE6NHFCKUJBQAK3FRYU4
+ |   |- Actor Path: /Game/Map/map.map:PersistentLevel.BP_objetMaster_Child_C_UAID_047C1640C4C5989301_1525207153
+ |   |- Actor Package: /Game/__ExternalActors__/map/map/1/UC/JSHC1FNL5GJFQQD3U4DXTW
+ |   |- Actor Path: /Game/Map/map.map:PersistentLevel.StaticMeshActor_UAID_D8BBC197EE19E99301_1581369433
+ |   |- Actor Package: /Game/__ExternalActors__/map/map/2/7K/VLUWJ3IXOY4XLKIKR7B90S
+ |   |- Actor Path: /Game/Map/map.map:PersistentLevel.StaticMeshActor_UAID_D8BBC197EE19E89301_2130742243
+ |   |- Actor Package: /Game/__ExternalActors__/map/map/2/CP/SPXNNOH8WFKNFLRUPSNHSD
+ |   |- Actor Path: /Game/Map/map.map:PersistentLevel.BP_objetMaster_Child_C_UAID_047C1640C4C5989301_1528482155
+ |   |- Actor Package: /Game/__ExternalActors__/map/map/2/PO/GEBQS8AP583VC7QWTT7YF7
+ |   |- Actor Path: /Game/Map/map.map:PersistentLevel.StaticMeshActor_UAID_D8BBC197EE19E89301_2130642231
+ |   |- Actor Package: /Game/__ExternalActors__/map/map/2/U2/X5AJDAAJ058ZNWEE2SEEUF
+ |   |- Actor Path: /Game/Map/map.map:PersistentLevel.StaticMeshActor_UAID_D8BBC197EE19E89301_2130667234
+ |   |- Actor Package: /Game/__ExternalActors__/map/map/2/VY/CLM5S501C6L0XLU2HKRTI6
+ |   |- Actor Path: /Game/Map/map.map:PersistentLevel.StaticMeshActor_UAID_D8BBC197EE19E89301_2130583224
+ |   |- Actor Package: /Game/__ExternalActors__/map/map/3/AC/CCPY80VNC0M5ADO0390Z4G
+ |   |- Actor Path: /Game/Map/map.map:PersistentLevel.StaticMeshActor_UAID_D8BBC197EE19E89301_2130734242
+ |   |- Actor Package: /Game/__ExternalActors__/map/map/4/5T/XMBL0CB4AQ259HXFVPDC6Y
+ |   |- Actor Path: /Game/Map/map.map:PersistentLevel.StaticMeshActor_UAID_D8BBC197EE19E99301_1581401437
+ |   |- Actor Package: /Game/__ExternalActors__/map/map/4/F9/QTWZB1MCIG0MMXI3YOZNJI
+ |   |- Actor Path: /Game/Map/map.map:PersistentLevel.StaticMeshActor_UAID_D8BBC197EE19E89301_2130633230
+ |   |- Actor Package: /Game/__ExternalActors__/map/map/4/FP/UHZ0KCCEYZB287OUXSB8LN
+ |   |- Actor Path: /Game/Map/map.map:PersistentLevel.StaticMeshActor_UAID_D8BBC197EE19E89301_2130693237
+ |   |- Actor Package: /Game/__ExternalActors__/map/map/5/AF/4LZGPIR1GDROPDVEW2Y8NJ
+ |   |- Actor Path: /Game/Map/map.map:PersistentLevel.StaticMeshActor_UAID_D8BBC197EE19E99301_1581361432
+ |   |- Actor Package: /Game/__ExternalActors__/map/map/6/FV/HMZ0YLQY69DY3N6H9K7ZLP
+ |   |- Actor Path: /Game/Map/map.map:PersistentLevel.StaticMeshActor_UAID_D8BBC197EE19E99301_1581490448
+ |   |- Actor Package: /Game/__ExternalActors__/map/map/6/JX/BUS5KX6UYCT2A9BY7FGYCK
+ |   |- Actor Path: /Game/Map/map.map:PersistentLevel.StaticMeshActor_UAID_D8BBC197EE19E99301_1581450443
+ |   |- Actor Package: /Game/__ExternalActors__/map/map/6/KX/GOV1ZN459BRHV02P0KWDAA
+ |   |- Actor Path: /Game/Map/map.map:PersistentLevel.BP_objetMaster_Child_C_UAID_047C1640C4C5989301_1521519150
+ |   |- Actor Package: /Game/__ExternalActors__/map/map/6/ST/3G6HPFU2EUGTBX2E2BZEQ8
+ |   |- Actor Path: /Game/Map/map.map:PersistentLevel.StaticMeshActor_UAID_D8BBC197EE19E89301_2130650232
+ |   |- Actor Package: /Game/__ExternalActors__/map/map/7/4Y/I3G308W8SIRT0386SHZ09L
+ |   |- Actor Path: /Game/Map/map.map:PersistentLevel.StaticMeshActor_UAID_D8BBC197EE19E99301_1581294424
+ |   |- Actor Package: /Game/__ExternalActors__/map/map/7/7L/FJJJPZQ788W08VQW53VRX5
+ |   |- Actor Path: /Game/Map/map.map:PersistentLevel.StaticMeshActor_UAID_D8BBC197EE19E99301_1581320427
+ |   |- Actor Package: /Game/__ExternalActors__/map/map/7/SL/OT51TQ6LWY81JCUMD0N7FY
+ |   |- Actor Path: /Game/Map/map.map:PersistentLevel.StaticMeshActor_UAID_D8BBC197EE19E89301_2130726241
+ |   |- Actor Package: /Game/__ExternalActors__/map/map/7/UK/FVF1KWC5GQBNT28QMQ44SK
+ |   |- Actor Path: /Game/Map/map.map:PersistentLevel.StaticMeshActor_UAID_D8BBC197EE19E89301_2130571223
+ |   |- Actor Package: /Game/__ExternalActors__/map/map/7/V2/HU86XVHK1OHTIYCTNZ1WHQ
+ |   |- Actor Path: /Game/Map/map.map:PersistentLevel.StaticMeshActor_UAID_D8BBC197EE19E89301_2130717240
+ |   |- Actor Package: /Game/__ExternalActors__/map/map/7/ZZ/BZZ2RVB32ROSHDHS0WQGPK
+ |   |- Actor Path: /Game/Map/map.map:PersistentLevel.StaticMeshActor_UAID_D8BBC197EE19E99301_1581394436
+ |   |- Actor Package: /Game/__ExternalActors__/map/map/8/7L/WGVSVI6B4ENFRQL01R6T8I
+ |   |- Actor Path: /Game/Map/map.map:PersistentLevel.StaticMeshActor_UAID_D8BBC197EE19E99301_1581475446
+ |   |- Actor Package: /Game/__ExternalActors__/map/map/8/7Q/BYA07DVNNVLIRITD456L4R
+ |   |- Actor Path: /Game/Map/map.map:PersistentLevel.StaticMeshActor_UAID_D8BBC197EE19E89301_2130625229
+ |   |- Actor Package: /Game/__ExternalActors__/map/map/8/8X/X2YIGAJ4PKZXFKCEDNEYIQ
+ |   |- Actor Path: /Game/Map/map.map:PersistentLevel.StaticMeshActor_UAID_D8BBC197EE19E99301_1581378434
+ |   |- Actor Package: /Game/__ExternalActors__/map/map/8/BQ/JBA2W3UIATC10K3RQN8UZQ
+ |   |- Actor Path: /Game/Map/map.map:PersistentLevel.StaticMeshActor_UAID_D8BBC197EE19E99301_1581458444
+ |   |- Actor Package: /Game/__ExternalActors__/map/map/8/CZ/PS0KPSCDRZJBJYK07N9WPA
+ |   |- Actor Path: /Game/Map/map.map:PersistentLevel.StaticMeshActor_UAID_D8BBC197EE19E89301_2130675235
+ |   |- Actor Package: /Game/__ExternalActors__/map/map/8/JT/TNCPG3U3VTIJ95H4E6J27E
+ |   |- Actor Path: /Game/Map/map.map:PersistentLevel.StaticMeshActor_UAID_D8BBC197EE19E89301_2130776247
+ |   |- Actor Package: /Game/__ExternalActors__/map/map/9/3P/PBP61B9Q6V2Z480R1XFECA
+ |   |- Actor Path: /Game/Map/map.map:PersistentLevel.StaticMeshActor_UAID_D8BBC197EE19E99301_1581386435
+ |   |- Actor Package: /Game/__ExternalActors__/map/map/9/43/1WYCYXYCNZSFSYP3LGWTBQ
+ |   |- Actor Path: /Game/Map/map.map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_5_0
+ |   |- Actor Package: /Game/__ExternalActors__/Map/map/9/8T/GOAQPMTG45DVWNVR500ETZ
+ |   |- Actor Path: /Game/Map/map.map:PersistentLevel.StaticMeshActor_UAID_D8BBC197EE19E89301_2130608227
+ |   |- Actor Package: /Game/__ExternalActors__/map/map/9/DO/DCBI20K4W63ZDONFJYV1EE
+ |   |- Actor Path: /Game/Map/map.map:PersistentLevel.PointLight_UAID_047C1640C4C5EC9301_2012841927
+ |   |- Actor Package: /Game/__ExternalActors__/Map/map/A/TK/UK6UJND538MSM92NO7UMOD
+ |   |- Actor Path: /Game/Map/map.map:PersistentLevel.StaticMeshActor_UAID_D8BBC197EE19E99301_1581434441
+ |   |- Actor Package: /Game/__ExternalActors__/map/map/9/Y8/Q2SRM5CSB2S1YEH9Q64L62
+ |   |- Actor Path: /Game/Map/map.map:PersistentLevel.StaticMeshActor_UAID_D8BBC197EE19E89301_2130709239
+ |   |- Actor Package: /Game/__ExternalActors__/map/map/A/A4/HE1IE7G75AR8PQIMXLDWFD
+ |   |- Actor Path: /Game/Map/map.map:PersistentLevel.StaticMeshActor_UAID_D8BBC197EE19E99301_1581467445
+ |   |- Actor Package: /Game/__ExternalActors__/map/map/A/E7/L0PKC8QDQ952IG9UPHHMHO
+ |   |- Actor Path: /Game/Map/map.map:PersistentLevel.StaticMeshActor_UAID_D8BBC197EE19E89301_2130701238
+ |   |- Actor Package: /Game/__ExternalActors__/map/map/A/G1/3J4G5895AGPA9QOJN4782L
+ |   |- Actor Path: /Game/Map/map.map:PersistentLevel.PointLight_UAID_047C1640C4C5EC9301_2017234928
+ |   |- Actor Package: /Game/__ExternalActors__/Map/map/8/53/DVDB2EPJSRX3FDTWBLUJ3D
+ |   |- Actor Path: /Game/Map/map.map:PersistentLevel.StaticMeshActor_UAID_D8BBC197EE19E89301_2130659233
+ |   |- Actor Package: /Game/__ExternalActors__/map/map/A/PF/91CSWS8LE1Q1SSC5ZG6SHU
+ |   |- Actor Path: /Game/Map/map.map:PersistentLevel.BP_objetMaster_Child_C_UAID_047C1640C4C5989301_1529648156
+ |   |- Actor Package: /Game/__ExternalActors__/map/map/A/TD/ENQPJSS31Y5Y3A447Q0WOD
+ |   |- Actor Path: /Game/Map/map.map:PersistentLevel.StaticMeshActor_UAID_D8BBC197EE19E89301_2130599226
+ |   |- Actor Package: /Game/__ExternalActors__/map/map/A/V2/K62HNKHUFYBE2FRN9C33PL
+ |   |- Actor Path: /Game/Map/map.map:PersistentLevel.StaticMeshActor_UAID_D8BBC197EE19E99301_1581304425
+ |   |- Actor Package: /Game/__ExternalActors__/map/map/B/0X/WSM4SPNSTVY1PKBNCZPZ4G
+ |   |- Actor Path: /Game/Map/map.map:PersistentLevel.StaticMeshActor_UAID_D8BBC197EE19E99301_1581328428
+ |   |- Actor Package: /Game/__ExternalActors__/map/map/B/GQ/DHYZSYERB2ZQJ2OL86OYS6
+ |   |- Actor Path: /Game/Map/map.map:PersistentLevel.StaticMeshActor_UAID_D8BBC197EE19E99301_1581426440
+ |   |- Actor Package: /Game/__ExternalActors__/map/map/B/HF/1N98PLD9L5XU32089T4IOJ
+ |   |- Actor Path: /Game/Map/map.map:PersistentLevel.StaticMeshActor_UAID_D8BBC197EE19E89301_2130616228
+ |   |- Actor Package: /Game/__ExternalActors__/map/map/B/XD/P0HR9K7KA5RT33UPLLOCRN
+ |   |- Actor Path: /Game/Map/map.map:PersistentLevel.StaticMeshActor_UAID_D8BBC197EE19E99301_1581352431
+ |   |- Actor Package: /Game/__ExternalActors__/map/map/C/2M/ICEWYY1Y8OVUZJ3XFKWBQD
+ |   |- Actor Path: /Game/Map/map.map:PersistentLevel.StaticMeshActor_UAID_D8BBC197EE19E89301_2130751244
+ |   |- Actor Package: /Game/__ExternalActors__/map/map/C/5G/DO2BRNTCQFFS0FEUADYSLE
+ |   |- Actor Path: /Game/Map/map.map:PersistentLevel.StaticMeshActor_UAID_D8BBC197EE19E99301_1581409438
+ |   |- Actor Package: /Game/__ExternalActors__/map/map/C/J8/0X1YCHUONRW3CHFDZR7H09
+ |   |- Actor Path: /Game/Map/map.map:PersistentLevel.StaticMeshActor_UAID_D8BBC197EE19CD9301_2143745472
+ |   |- Actor Package: /Game/__ExternalActors__/map/map/C/MC/DNZOLWZWTRIH2F860KISYD
+ |   |- Actor Path: /Game/Map/map.map:PersistentLevel.StaticMeshActor_UAID_D8BBC197EE19E89301_2130768246
+ |   |- Actor Package: /Game/__ExternalActors__/map/map/C/UL/60RSL86UFLVJ2S6FETQ89L
+ |   |- Actor Path: /Game/Map/map.map:PersistentLevel.BP_objetMaster_Child_C_UAID_047C1640C4C5989301_1522998151
+ |   |- Actor Package: /Game/__ExternalActors__/map/map/C/ZN/JSP6KO91OLGO71ER34L0IW
+ |   |- Actor Path: /Game/Map/map.map:PersistentLevel.PostProcessVolume_UAID_047C1640C4C5CC9301_1187912296
+ |   |- Actor Package: /Game/__ExternalActors__/map/map/D/6T/O049DM50ZKHEO60QFCMMDO
+ |   |- Actor Path: /Game/Map/map.map:PersistentLevel.StaticMeshActor_UAID_D8BBC197EE19E99301_1581336429
+ |   |- Actor Package: /Game/__ExternalActors__/map/map/D/IT/EGBZZ5UZMW86RQASHOPNNU
+ |   |- Actor Path: /Game/Map/map.map:PersistentLevel.StaticMeshActor_UAID_D8BBC197EE19E99301_1581312426
+ |   |- Actor Package: /Game/__ExternalActors__/map/map/D/J1/Y6CGQQOF3CZX1JQWXTC8SO
+ |   |- Actor Path: /Game/Map/map.map:PersistentLevel.StaticMeshActor_UAID_D8BBC197EE19E89301_2130591225
+ |   |- Actor Package: /Game/__ExternalActors__/map/map/D/MD/9K2TG4SCH024HY36YQGLVJ
+ |   |- Actor Path: /Game/Map/map.map:PersistentLevel.BP_objetMaster_Child_C_UAID_047C1640C4C5989301_1530682157
+ |   |- Actor Package: /Game/__ExternalActors__/map/map/E/QN/KVGNPQ5KHN6SOGAUS9BE7Y
+ |   |- Actor Path: /Game/Map/map.map:PersistentLevel.BP_objetMaster_Child_C_UAID_047C1640C4C5989301_1526346154
+ |   |- Actor Package: /Game/__ExternalActors__/map/map/E/RV/M4JMA0RZ38XIHO7KVBXIJI
+ |   |- Actor Path: /Game/Map/map.map:PersistentLevel.BP_objetMaster_Child_C_UAID_047C1640C4C5989301_1514392149
+ |   |- Actor Package: /Game/__ExternalActors__/map/map/E/UE/VBME5JPRLG18JPAKDE8N8Q
+ |   |- Actor Path: /Game/Map/map.map:PersistentLevel.StaticMeshActor_UAID_D8BBC197EE19E89301_2130684236
+ |   |- Actor Package: /Game/__ExternalActors__/map/map/E/Y1/445G5UEY6CR0DUFWP6E61N
+ |   |- Actor Path: /Game/Map/map.map:PersistentLevel.StaticMeshActor_UAID_D8BBC197EE19E99301_1581417439
+ |   |- Actor Package: /Game/__ExternalActors__/map/map/F/28/V5XH5Q2MINM1U6ZQFWQI4M
+ |- [+] Content of Cell MainGrid_L0_X-1_Y2
+ |   |- Actor Count: 1
+ |   |- MinMaxZ: X=189.062 Y=5252.344
+ |   |- Actor Path: /Game/Map/map.map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_6_0
+ |   |- Actor Package: /Game/__ExternalActors__/Map/map/A/W8/4MUQSTH331A6EQW9GLAU26
+[+] Content of Grid Level 1
+[+] Content of Grid Level 2
+[+] Content of Grid Level 3
+
