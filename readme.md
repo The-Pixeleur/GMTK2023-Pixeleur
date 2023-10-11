@@ -1,6 +1,6 @@
 # Valor Sold - Unreal Engine Project
 
-![Game Screenshot](screenshot.png)
+![Game Screenshot](http://the-pixeleur.fr/IMG/GAMEPREZ/ValorsSold_BannierePIX.png)
 
 ## Overview
 
