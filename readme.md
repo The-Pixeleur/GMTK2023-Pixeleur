@@ -1,6 +1,6 @@
-# Valor Sold - Unreal Engine Project
+# Valor Sold - Unreal Engine 5.2 Project
 
-![Game Screenshot](http://the-pixeleur.fr/IMG/GAMEPREZ/ValorsSold_BannierePIX.png)
+![Game Screenshot](http://pixeleur.fr/IMAGES/ImagePresentation/ValorSoldBanner.png)
 
 ## 🌟 Overview
 
